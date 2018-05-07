@@ -16,6 +16,8 @@ $ yarn & yarn start
 
 ### Add new packages to project
 
+To add a new package we need to be inside the container
+
 ```
 $ docker exec -ti diocesan-reactjs sh
 ```
